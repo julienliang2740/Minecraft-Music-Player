@@ -14,3 +14,6 @@ Traditionally, making custom songs in Minecraft requires (very) long lines of no
 
 ## How it works
 Data is read from the shulker boxes in 5-bit lines, this data is then put through a 32-bit decoder which directs to the corresponding note block. When timed properly, the song is played according to specifications.
+
+## Gallery
+![image](https://github.com/user-attachments/assets/811271f9-0e4d-4648-9fe6-8fcebc510233)
